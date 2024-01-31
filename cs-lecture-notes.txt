@@ -3,3 +3,10 @@ git add
 git status
 git commit -m ""
 git push origin main
+
+>version command is used to check whether git is installed.
+>add command is used to stage the files in the local repository to githubrepository
+>status command is used to see the current status of the repository
+>to commit changes use commit command
+>once commited push the file to repository using push command
+
